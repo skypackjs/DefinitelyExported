@@ -1,0 +1,26 @@
+{
+  ".": {
+    "import": "./dist/esm/index.js",
+    "require": "./dist/cjs/index.js"
+  },
+  "./ajax": {
+    "import": "./dist/esm/ajax/index.js",
+    "require": "./dist/cjs/ajax/index.js"
+  },
+  "./fetch": {
+    "import": "./dist/esm/fetch/index.js",
+    "require": "./dist/cjs/fetch/index.js"
+  },
+  "./operators": {
+    "import": "./dist/esm/operators/index.js",
+    "require": "./dist/cjs/operators/index.js"
+  },
+  "./testing": {
+    "import": "./dist/esm/testing/index.js",
+    "require": "./dist/cjs/testing/index.js"
+  },
+  "./webSocket": {
+    "import": "./dist/esm/webSocket/index.js",
+    "require": "./dist/cjs/webSocket/index.js"
+  }
+}

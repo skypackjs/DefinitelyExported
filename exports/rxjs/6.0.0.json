@@ -1,0 +1,26 @@
+{
+  ".": {
+    "import": "./_esm2015/index.js",
+    "require": "./index.js"
+  },
+  "./ajax": {
+    "import": "./_esm2015/ajax/index.js",
+    "require": "./ajax/index.js"
+  },
+  "./fetch": {
+    "import": "./_esm2015/fetch/index.js",
+    "require": "./fetch/index.js"
+  },
+  "./operators": {
+    "import": "./_esm2015/operators/index.js",
+    "require": "./operators/index.js"
+  },
+  "./testing": {
+    "import": "./_esm2015/testing/index.js",
+    "require": "./testing/index.js"
+  },
+  "./webSocket": {
+    "import": "./_esm2015/webSocket/index.js",
+    "require": "./webSocket/index.js"
+  }
+}

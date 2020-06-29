@@ -7,10 +7,6 @@
     "import": "./_esm2015/ajax/index.js",
     "require": "./ajax/index.js"
   },
-  "./fetch": {
-    "import": "./_esm2015/fetch/index.js",
-    "require": "./fetch/index.js"
-  },
   "./operators": {
     "import": "./_esm2015/operators/index.js",
     "require": "./operators/index.js"

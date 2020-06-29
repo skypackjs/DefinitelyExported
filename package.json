@@ -1,0 +1,15 @@
+{
+  "name": "DefinitelyExported",
+  "private": true,
+  "description": "Community-defined export maps for popular npm packages https://nodejs.org/api/esm.html#esm_package_entry_points",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/pikapkg/DefinitelyExported#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pikapkg/DefinitelyExported.git"
+  },
+  "dependencies": {
+    "semver": "^7.3.2"
+  }
+}

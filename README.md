@@ -3,4 +3,4 @@ Community-defined export maps for popular npm packages https://nodejs.org/api/es
 
 ## What is this?
 
-An experiment :)
+A silly experiment for now :) If this ends up being useful for anyone, I'll add more documentation.

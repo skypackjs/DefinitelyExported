@@ -1,0 +1,9 @@
+{
+  ".": "./index.mjs",
+  "animate": "./animate/index.mjs",
+  "easing": "./easing/index.mjs",
+  "internal": "./internal/index.mjs",
+  "motion": "./motion/index.mjs",
+  "store": "./store/index.mjs",
+  "transition": "./transition/index.mjs"
+}

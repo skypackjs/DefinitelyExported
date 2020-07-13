@@ -1,6 +1,6 @@
 # DefinitelyExported
 Community-defined export maps for popular npm packages https://nodejs.org/api/esm.html#esm_package_entry_points
-Like [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped), but for export maps.
+It's like [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped), but for export maps.
 
 ## Wait, is this a joke?
 

@@ -1,0 +1,4 @@
+{
+  ".": "./lit-html.js",
+  "./directives/*": "./directives/*"
+}

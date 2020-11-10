@@ -1,9 +1,5 @@
 {
   ".": "./esm/index.js",
-  "./Accordion": "./esm/Accordion/Accordion.js",
-  "./AccordionActions": "./esm/AccordionActions/AccordionActions.js",
-  "./AccordionDetails": "./esm/AccordionDetails/AccordionDetails.js",
-  "./AccordionSummary": "./esm/AccordionSummary/AccordionSummary.js",
   "./AppBar": "./esm/AppBar/AppBar.js",
   "./Avatar": "./esm/Avatar/Avatar.js",
   "./Backdrop": "./esm/Backdrop/Backdrop.js",

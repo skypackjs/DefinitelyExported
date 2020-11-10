@@ -1,0 +1,4 @@
+{
+  ".": "./dist/preact-router.es.js",
+  "./match": "./src/match.js"
+}

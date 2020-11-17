@@ -113,5 +113,9 @@
   "./Tooltip": "./esm/Tooltip/Tooltip.js",
   "./Typography": "./esm/Typography/Typography.js",
   "./Unstable_TrapFocus": "./esm/Unstable_TrapFocus/Unstable_TrapFocus.js",
-  "./Zoom": "./esm/Zoom/Zoom.js"
+  "./Zoom": "./esm/Zoom/Zoom.js",
+  "./styles/*": "./styles/*.js",
+  "./utils/*": "./utils/*.js",
+  "./package.json": "./package.json",
+  "./": "./"
 }
